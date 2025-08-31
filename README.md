@@ -1,2 +1,2 @@
-# AI_Automations
-This repo contains automation templates made on make.com. Feel free to use them.
+-> File (Integration ClickUp to Email Make.com Blueprint).json is the workflow that reads all the daily tasks from clickup, make it in one text and sends all the tasks in one email.
+-> File (workflow ss).jpeg is the image file showing how the workflow looks like on make.com
