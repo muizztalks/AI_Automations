@@ -1,1 +1,1 @@
-This repo contains automation templates built on make.com
+This repository contains automation templates built on make.com
