@@ -1,6 +1,6 @@
 # ClickUp to Email Workflow (Updated)
 
-This is the updated version of the previous ClickUp → Email workflow.
+This is the updated version of the previous ClickUp → Email workflow. I have deleted the previous file.
 
 ## Improvements
 
