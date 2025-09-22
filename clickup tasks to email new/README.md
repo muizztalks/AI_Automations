@@ -10,7 +10,7 @@ This is the updated version of the previous ClickUp → Email workflow.
 
 ## Benefits
 
-More efficient and cost-effective. <br>
-Maintains core functionality while reducing overhead. <br>
+-> More efficient and cost-effective. <br>
+-> Maintains core functionality while reducing overhead. <br>
 
 
