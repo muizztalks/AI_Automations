@@ -5,5 +5,5 @@ AI Automations helps us to reduce the manual labor. We design a workflow on No-C
 Folder Name: Make.com Workflows <br>
 Functionality: Contains Automations files made on "Make.com" <br>
 
-Folder Name: <br>
-Functionality: <br>
+Folder Name: n8n Automations <br>
+Functionality: Contains no-code complex automations made on "n8n" <br>
