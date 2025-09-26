@@ -1,5 +1,5 @@
 ### What is an AI Automation?
-AI Automations helps us to reduce the manual labor by designing the workflow which will be executed by your machine.
+AI Automations helps us to reduce the manual labor. We design a workflow on No-Code Tools such as "n8n" or "make dot com" which will be executed by your machine.
 
 ### Folders:
 Folder Name: <br>
